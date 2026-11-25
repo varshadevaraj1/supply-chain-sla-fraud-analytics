@@ -1,7 +1,7 @@
 # Varsha Devaraj — Data & Business Intelligence Portfolio
 
-🌐 **Live Portfolio:** [varshadevaraj1.github.io](https://github.io)  
-💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/varsha001)  
+🌐 **Live Portfolio:** [varshadevaraj1.github.io](https://varshadevaraj1.github.io)  
+💼 **LinkedIn:** [linkedin.com/in/varsha001](https://linkedin.com/in/varsha001)  
 📍 **Location:** Dubai, UAE  
 
 ---
